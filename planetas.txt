@@ -2,3 +2,4 @@ Aldereaan
 Coruscant
 Endor
 Hoth
+Bespin
