@@ -2,6 +2,7 @@ Aldereaan
 Coruscant
 Endor
 Hoth
-Terras
+Earth
 Bespin
+
 
