@@ -2,5 +2,9 @@ Luke Skywalker
 Darth Vader
 Master yoda
 Princesa Léa
+<<<<<<< HEAD
 Sheldon CooperMaster
+=======
+Sheldon Cooper
+>>>>>>> novaBranch
 

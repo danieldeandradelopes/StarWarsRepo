@@ -2,6 +2,8 @@ Aldereaan
 Coruscant
 Endor
 Hoth
-EarthMaster
+Earth
 Bespin
+EarthMaster
+
 
