@@ -1,0 +1,109 @@
+[33mcommit 4baecac2b8e9925ae26db6e16ab12aa5e2400857[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Fri Jan 3 21:52:00 2020 -0300
+
+    Adicionado Rey e Finn
+
+[33mcommit 7c40f8d1e25768a3b00a28f4c780bb2007b80823[m
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Fri Jan 3 21:48:56 2020 -0300
+
+    update personagens 2
+
+[33mcommit f04add542f7bd896a771316449bc9ea442af6200[m
+Merge: 6da6b77 3708df5
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Fri Jan 3 21:34:21 2020 -0300
+
+    Merge branch novaBranch
+
+[33mcommit 6da6b77b70f5124fffd37fbfb4bd0525819c4fc5[m
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Fri Jan 3 20:56:49 2020 -0300
+
+    update personagens and planets
+
+[33mcommit f0687312cec05055dd39de7a7d8b13783ffb12d2[m
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Fri Jan 3 20:55:58 2020 -0300
+
+    update personagens and planets add sheldon cooper and earth
+
+[33mcommit 3708df5991d34ae0c2e8a0da5347b5e915432ff5[m[33m ([m[1;31morigin/novaBranch[m[33m)[m
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Fri Jan 3 20:54:06 2020 -0300
+
+    add fake sheldon cooper in personagens
+
+[33mcommit e88c8539e0f7a1b2717004cc377141e34beb716b[m
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Fri Jan 3 20:53:06 2020 -0300
+
+    add earth to planets list
+
+[33mcommit 2b8cfe8abd4c17436d71067e87ad53bc3abdb5bb[m
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Mon Dec 30 14:40:06 2019 -0200
+
+    Git ignore
+
+[33mcommit d9e77e982dce0ed2a8cae2be6515ddfd90ed79aa[m
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Mon Dec 30 13:23:56 2019 -0300
+
+    update yoda image
+
+[33mcommit 5cded92ff119a2a9b3570cfb6f4ecda7bc9df7bb[m
+Merge: 1ca2e47 c62f9b8
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Mon Dec 30 13:20:59 2019 -0300
+
+    Merge branch 'master' of https://github.com/danieldeandradelopes/StarWarsRepo
+
+[33mcommit 1ca2e472d47cf4096736c68b1fab8011e092ff3d[m
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Mon Dec 30 13:18:18 2019 -0300
+
+    Add Earth to planets
+
+[33mcommit c62f9b860bc84574f619943c20648d85943a8ab3[m
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Mon Dec 30 13:07:16 2019 -0300
+
+    add Bespin to planets
+
+[33mcommit 0a31c10725c3e2d89da0b5d6d8e0d08981533e98[m
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Mon Dec 30 13:06:19 2019 -0300
+
+    Add terra
+
+[33mcommit 6dcb4bf3399d4a80cd7ddae3292b0d0512461efc[m
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Mon Dec 30 12:46:26 2019 -0300
+
+    Adicionando um novo planeta
+
+[33mcommit fc530334ba6995fca3e2076fd8abba111cacb38a[m
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Mon Dec 30 12:39:35 2019 -0300
+
+    Add item em personagens.txt e criei o naves.txt
+
+[33mcommit 7c2445b5d40e1d82179d75fa8d69346b36fda1dc[m
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Mon Dec 30 12:30:24 2019 -0300
+
+    Editado o arquivo de personagens e criado o de planetas.
+
+[33mcommit 1ba7fddfbd82cea8f1a6fedb67ff71c9b695c9d8[m
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Mon Dec 30 12:24:53 2019 -0300
+
+    Adicionado o README.md
+
+[33mcommit da2f22840da3081ea5d94e9b6bfe3c5b00913f82[m
+Author: danieldeandradelopes <danieldeandradelopes@gmail.com>
+Date:   Mon Dec 30 12:12:47 2019 -0300
+
+    Criado o arquivo de personagens
